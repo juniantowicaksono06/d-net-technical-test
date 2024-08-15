@@ -155,3 +155,8 @@ email: wawan1234@gmail.com
 password: Abcd1234
 role: sales
 ```
+
+Untuk hasil technical test yang sudah di publish bisa cek disini
+```bash
+https://junianto-wicaksono-d-net-technical-test.vercel.app/
+```
